@@ -314,7 +314,7 @@ Open your browser at: `http://localhost:8501`
 
 **Siddhesh Pate**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)][www.linkedin.com/in/siddheshpate2007]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([www.linkedin.com/in/siddheshpate2007)
 
 )
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR-USERNAME)
